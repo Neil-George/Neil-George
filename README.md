@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Neil-George
+- 👋 Hi, I’m Neil
 - 🖥️ I’m currently a Third year Computer Science student at The University of Warwick.
 - 📫 You can reach me by email: neilgeorgeuk@gmail.com
 
