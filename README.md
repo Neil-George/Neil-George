@@ -1,8 +1,24 @@
-- 👋 Hi, I’m Neil
-- 🖥️ I’m currently a Third year Computer Science student at The University of Warwick.
-- 📫 You can reach me by email: neilgeorgeuk@gmail.com
+# 👋 Hi, I'm Neil
 
-<!---
-Neil-George/Neil-George is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Software Developer with experience building and maintaining enterprise Java applications using Spring Boot, REST APIs, and cloud infrastructure.
+
+🚀 Currently working as a Junior Java Developer, developing production systems used by thousands of users and contributing to application security, reliability, and deployment across AWS and OpenShift environments.
+
+🎓 BSc Computer Science (2:1), University of Warwick
+
+🛠️ Tech Stack
+Java • Spring Boot • AWS • Docker • Kubernetes • OpenShift • SQL • Git
+
+📫 Contact me:
+Email: [neilgeorgeuk@gmail.com](mailto:neilgeorgeuk@gmail.com)
+LinkedIn: https://linkedin.com/in/neil-george/
+
+---
+
+### 🔧 What I'm currently working on
+
+* Improving my backend and system design skills
+* Building personal projects to deepen my understanding of distributed systems
+* Learning more about cloud infrastructure and scalable architectures
+
+---
